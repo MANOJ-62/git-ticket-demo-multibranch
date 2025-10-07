@@ -1,2 +1,7 @@
 Initial Code
+<<<<<<< HEAD
 Feature A - Ticket 1
+=======
+Feature B - Ticket 2
+>>>>>>> feature/TICKET-2
+Feature C - Ticket 3
